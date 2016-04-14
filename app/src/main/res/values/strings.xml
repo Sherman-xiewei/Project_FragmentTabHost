@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project_FragmentTabHost</string>
+
+    <string name="home">首页</string>
+    <string name="list">查询</string>
+    <string name="info">消息</string>
+    <string name="me">我的</string>
+</resources>
